@@ -1,5 +1,5 @@
 stack["anup"]
-stack["amit"]
+stack["at"]
 stack["arjun"]
 print(stack)
 print(stack.pop())
